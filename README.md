@@ -1,1 +1,2 @@
-# images_diff
+# Note
+The important file is the PDF.
